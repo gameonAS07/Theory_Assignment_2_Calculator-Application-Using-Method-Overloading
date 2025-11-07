@@ -11,22 +11,8 @@
 
 ---
 
----
-
 ````
 # 🧮 Calculator Application Using Method Overloading (Java)
-
----
-
-## 📘 Course Information
-**Program:** BCA (Hons.) – AI & Data Science  
-**Semester:** 3rd  
-**Course Code:** ENCA203  
-**Course Name:** Java Programming  
-**Faculty:** Mr. Vishwanil S  
-**University:** K.R. Mangalam University  
-**Assignment Number:** 02  
-**Submission Date:** 25th September, 2025  
 
 ---
 
