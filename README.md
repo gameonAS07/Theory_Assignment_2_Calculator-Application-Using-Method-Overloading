@@ -1,9 +1,13 @@
 ## 🧑‍💻 Author
 
 **Name:** Akash Sharma
+
 **Program:** BCA (Hons.) – AI & Data Science
+
 **University:** K.R. Mangalam University
+
 **Session:** 2025–26
+
 
 ---
 
